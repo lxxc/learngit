@@ -1,1 +1,1 @@
-doubi zouhao
+excludesfile = ../.gitignore
